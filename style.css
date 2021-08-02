@@ -1,0 +1,13 @@
+body{
+  background-color:black ;
+}
+
+p{
+  font-size: 12px;
+  padding-left: 12px;
+}
+
+.gif {
+  display: flex;
+  margin-left: 38.5%;
+}
